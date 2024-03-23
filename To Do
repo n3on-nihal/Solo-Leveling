@@ -1,1 +1,19 @@
 Start Simple: Begin by building core functionalities like connecting your bot to your Discord server and responding to basic commands (e.g., "!help" to display a list of commands).
+
+**Features**
+Character creation and customization
+Leveling up system
+Quests and missions
+Combat mechanics
+Inventory management
+Social interaction commands
+Guilds or factions
+Leaderboards or rankings
+
+**COMMANDS TO MAKE**
+
+*starting*
+Awake           -       Awake and become a hunter!
+Choose class    -       Choose a permanent class
+Profile	        -       Show your profile or other hunter's profile
+Inventory	    -       Show your inventory
